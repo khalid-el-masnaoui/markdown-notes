@@ -1,3 +1,5 @@
+# Markdown Notes
+
 A quick and rich Markdown Cheat Sheet from [Mahbub-Zaman](https://github.com/lifeparticle/Markdown-Cheatsheet) with some modifications.
 
 - [Headings](#headings)
