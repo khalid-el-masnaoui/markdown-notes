@@ -707,7 +707,7 @@ $$
 # Miscellaneous
 
 <!--
-Lorem ipsum dolor sit amet
+this is a comment
 -->
 
 ```
@@ -754,8 +754,12 @@ _   Underscore
 \_   Underscore
 ```
 
+#  Emojis
+		  
 ```
 :octocat:
 ```
 
 :octocat:
+
+you find [Here](https://gist.github.com/rxaviers/7360908) a Complete list of github markdown emoji markup
