@@ -1,0 +1,1 @@
+This text file serves the purpose of showcasing links with relative links

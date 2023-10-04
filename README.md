@@ -459,10 +459,10 @@ console.log(fullName); // Dariana Trahan
 
 
 ```
-[Example of a relative link](rl.md)
+[Example of a relative link](relative.txt)
 ```
 
-[Example of a relative link](rl.md)
+[Example of a relative link](relative.txt)
 
 
 Visit https://github.com/
